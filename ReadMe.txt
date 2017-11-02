@@ -1,12 +1,12 @@
-Test 1:
+BossHog
 Write some code that prints the numbers from 1 to 100. But for multiples of three print ¡°Boss¡± instead of the number and for the multiples of five
 print ¡°Hog¡±. For numbers which are multiples of both three and five print ¡°BossHog¡±."
 
 
-Test 2:
 Preface:
 Do not use any extended functionality of the framework to solve this problem. (For example, don't use the string finding methods of IndexOf,
 Substring, Contains, regular expression classes, etc).
+
 Problem:
 We need a way of finding all the occurrences of a particular set of characters in a string. The set of characters can occur anywhere within the
 string. The sample listed below should not be considered the only inputs and outputs
